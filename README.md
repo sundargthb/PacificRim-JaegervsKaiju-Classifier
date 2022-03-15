@@ -6,3 +6,18 @@ As I tried explaining him what I was doing (designing a classifier and let the c
 
 I have not uploaded the images I have used to train and test this model as I am not sure it would agree with the Github policy. Sorry. Please upload your own images into the train and test folders and edit this model accordingly.
  
+# Steps
+Download Datasets and Install Python Modules. Then
+
+Step 1: Create a CNN to Classify the Characters
+Step 2: Use Transfer Learning to Classify Characters
+Step 3: Test your Algorithm
+
+Install the following Python modules:
+
+cv2
+matplotlib
+numpy
+PIL
+torch
+torchvision
