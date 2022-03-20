@@ -1,6 +1,6 @@
 # Project Pacific Rim: Jaeger vs Kaiju Classifier
 
-My 5 yo son and I are fans of the movie franchise Pacific Rim.  On a daily basis I (the Kaiju) am getting thrown around by him (Gipsy Avenger). 
+My 5 yo son and I are fans of the movie franchise Pacific Rim. I (the Kaiju) get thrown around by him (Gipsy Avenger). 
 
 As I tried explaining him what I was working on (designing a classifier and have the 'computer take a quiz'), “Dad, can it say whether this is an Jaeger or a Kaiju ?”.   “Ok buddy, Why not”. Completed the classification and was excited to show him. But Ofcourse… the end result did not satisfy him as he wanted the code to classify types of Jaegers and Kaijus, for which I need a lot more labelled data.  This was fun anyway.
 
