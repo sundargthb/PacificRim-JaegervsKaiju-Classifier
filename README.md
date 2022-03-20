@@ -10,7 +10,9 @@ I have not uploaded the images that I have used to train and test this model as 
 Download Datasets and Install Python Modules. Then
 
 Step 1: Create a CNN to Classify the Characters
+
 Step 2: Use Transfer Learning to Classify Characters
+
 Step 3: Test your Algorithm
 
 Install the following Python modules:
